@@ -22,7 +22,7 @@ Git clone this repository:
 Add the the VM box:
 
 ```
-vagrant box add http://TODO/
+vagrant box add https://dl.dropbox.com/u/172498/icat_precise64_v1.box
 ```
 
 The VM will be downloaded and registered with Vagrant.
