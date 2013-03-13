@@ -1,7 +1,7 @@
 ICAT 4.2 Ubuntu Precise 12.04 Vagrant Virtual Machine
 ===============================
 
-_Runs a test blank [ICAT[(https://icatproject.googlecode.com/) server with derby database (in the Glassfish server environment). Can be used for development, testing or upgrading to a production environment. Admin port 4848 and web service port 8080 are exported to the host machine by default (you can change this in the Vagrantfile)._
+_Runs a test blank [ICAT](https://icatproject.googlecode.com/) server with derby database (in the Glassfish server environment). Can be used for development, testing or upgrading to a production environment. Admin port 4848 and web service port 8080 are exported to the host machine by default (you can change this in the Vagrantfile)._
 
 Requires Vagrant, a small ruby program (that in turn requires Oracle's VirtualBox VM software).
 
