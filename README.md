@@ -17,7 +17,7 @@ Requires Vagrant, a small ruby program (that in turn requires Oracle's VirtualBo
 
 Git clone this repository:
     
-    git clone git@github.com:steveandroulakis/icat-precise64-vagrant.git icat_precise64_v1
+    git clone https://github.com/steveandroulakis/icat-precise64-vagrant.git icat_precise64_v1
 
 Add the the VM box:
 
