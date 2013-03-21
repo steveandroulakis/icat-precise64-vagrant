@@ -30,6 +30,7 @@ The VM will be downloaded and registered with Vagrant.
 cd to the cloned git repository and start the virtual server:
 
 ```
+cd icat_precise64_v1
 vagrant up
 ```
 
